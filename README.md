@@ -1,4 +1,4 @@
-# 🧑‍💻 Anurag Pathak - Portfolio Website
+# 🧑‍💻 My - Portfolio Website
 
 Welcome to my personal portfolio website — a continuously evolving showcase of my web development, data, and AI projects.
 

@@ -54,6 +54,26 @@ header {
   color: #00bcd4;
 }
 
+/* ===== NAVBAR RESUME BUTTON ===== */
+.resume-link {
+  background: #00bcd4;
+  color: #fff;
+  padding: 0.4rem 0.9rem;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+.resume-link:hover {
+  background: #008c9e;
+  color: #fff;
+}
+.resume-link:hover {
+  background: #008c9e;
+  color: #fff;
+  box-shadow: 0 0 10px rgba(0, 188, 212, 0.6);
+}
+
+
 /* ===== HERO ===== */
 #hero {
   background: linear-gradient(135deg, #00bcd4, #0077b6);
@@ -272,6 +292,12 @@ footer {
   .project-card img {
     height: 150px;
   }
+  @media (max-width: 768px) {
+  .resume-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+  }
+}
 }
 
 @media (max-width: 480px) {
